@@ -16,6 +16,7 @@
 ## Data
 * Historical Saguaro Inventory records were requested from DBG. A report was downloaded from livingcollections.org.
 * Weather data was purchased from Visual Crossing: https://www.visualcrossing.com/weather/weather-data-services#/login
+* Saguaro and weather datasets were cleaned up and reformated using pandas.
 * Mortality_per_year_ready_for_analysis.csv contains the count of how many saguaros were lost in each year of interest.
 * GrowthRates_ready_for_analysis.csv contains average annual growth rates for each timespan of interest.
 * Nights_above_90_ready_for_analysis.csv contains the count of how many days had a low >= 90 F for each year.
@@ -24,15 +25,15 @@
 ## Analysis of saguaro mortality patterns
 * Bar plot of saguaro losses each year
 * Bar plot of nights above 90 earch year
-* Line plot of saguaro losses versus nights above 90
+* Scatter plot of saguaro losses versus nights above 90
 
 ## Analysis of saguaro growth rate patterns
 * Bar plot of saguaro growth rate per timespan
 * Bar plot of average annual precipitation per timespan
-* Line plot of saguaro growth rate versus average annual precipitation
+* Scatter plot of saguaro growth rate versus average annual precipitation
 
 ## Conclusions and Future Work
-* The scatterplots backed up the trend we were expecting to find between saguaro mortality and nights above 90. However, the scatterplot of growth rate versus precipitation revealed the exact opposite trend. Given that the growth rate versus precipitation trend is only based on 2 data points, it might not be very reliable.
+* The scatterplot backed up the trend we were expecting to find between saguaro mortality and nights above 90. However, the scatterplot of growth rate versus precipitation revealed the opposite of what we were expecting. However, given that the growth rate versus precipitation trend is only based on 2 timespans, we need to wait for more years of data to be collected before the trend can be analyzed statistically. It is also very surprising to see that the growth rate doubled between timespans 1 and 2, particularly given the decrease in mean annual rainfall.
 
 * Due to the difficulty of measuring saguaro heights, they can only be measured every 5 years. Therefore we only had access to two growth rate datapoints. As time passes and more data is collected, it will be interesting to run regression analyses on growth rate-related trends.
 
