@@ -1,5 +1,8 @@
 ## How Weather Affects The Health of The Saguaro Population at Desert Botanical Garden
 
+## Thank you
+* To the Research Team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
+
 ## Data analysis team
 * Steve Ovsak is ... He researched historical weather data sources and formatted the weather data for analysis
 * Steven Rohano's background is in the agricultural industry. He cleaned up and structured the historical saguaro inventory dataset for analysis.
@@ -14,7 +17,7 @@
 * Is there a relationship between saguaro growth rate and precipitation? We would expect to see higher growth rates in the year(s) following a high precipitation year.
 
 ## Data
-* Historical Saguaro Inventory records were requested from DBG. A report was downloaded from livingcollections.org.
+* Historical Saguaro Inventory records were provided by Desert Botanical Garden from https://www.livingcollections.org.
 * Weather data was purchased from Visual Crossing: https://www.visualcrossing.com/weather/weather-data-services#/login
 * Saguaro and weather datasets were cleaned up and reformated using pandas.
 * Mortality_per_year_ready_for_analysis.csv contains the count of how many saguaros were lost in each year of interest.
