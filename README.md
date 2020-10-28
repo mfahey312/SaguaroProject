@@ -1,4 +1,3 @@
-<img src="images/Saguaro map.png">
 ## How Weather Affects The Health of The Saguaro Population at Desert Botanical Garden
 
 ## Data analysis team
