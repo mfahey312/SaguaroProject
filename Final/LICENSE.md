@@ -1,4 +1,4 @@
-Copyright 2020 Desert Botanical Garden
+Copyright © 2020 Desert Botanical Garden
 
 All rights reserved
 
