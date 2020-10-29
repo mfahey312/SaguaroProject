@@ -1,4 +1,6 @@
-## How Weather Affects The Health of The Saguaro Population at Desert Botanical Garden
+# How Weather Affects The Health of The Saguaro Population at Desert Botanical Garden
+
+## Tip: After reading this introduction, it is recommended that you read the Analysis notebook located in Final/Jupyter Notebooks. If you are interested in seeing the full data clean-up and preparation, check out the data prep notebooks in the same file.
 
 ## Thank you
 * To the Research Team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
