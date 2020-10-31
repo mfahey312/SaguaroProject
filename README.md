@@ -6,9 +6,9 @@
 * To the Research Team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
 
 ## Data analysis team
-* Steve Ovsak is ... He researched historical weather data sources and formatted the weather data for analysis
-* Steven Rohano's background is in the agricultural industry. He cleaned up and structured the historical saguaro inventory dataset for analysis.
-* Michael Fahey is ... In addition to contributing to data analysis, he managed GitHub for the project.
+* Steve Ovsak researched historical weather data sources, obtained and formatted the weather data for analysis, and carried out weather data exploration.
+* Steven Rohano's background is in the agricultural industry. He cleaned up and structured the historical saguaro inventory dataset for analysis and debugged the analysis notebook.
+* Michael Fahey debugged jupyter notebooks and hosted the GitHub repo.
 * Veronica Nixon was responsible for organizing the Saguaro Inventory from 2012 to 2020 as the Garden's GIS Manager. She continues to support the Garden as a volunteer. Her background is in geographic information systems and science and she contributed botanical information to this analysis as well as data prep, analysis, and general project management.
 
 ## Introduction
