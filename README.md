@@ -42,4 +42,4 @@
 
 * Due to the difficulty of measuring saguaro heights, they can only be measured every 5 years. Therefore we only had access to two growth rate datapoints. As time passes and more data is collected, it will be interesting to run regression analyses on growth rate-related trends.
 
-* Future work will include Saguaro Inventory 2021 in February!
+* Future work will (hopefully) include Saguaro Inventory 2021 in February!
