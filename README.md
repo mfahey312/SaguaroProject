@@ -3,7 +3,7 @@
 ## Tip: After reading this introduction, it is recommended that you read the Analysis notebook located in Final/Jupyter Notebooks. If you are interested in seeing the full data clean-up and preparation, check out the data prep notebooks in the same file.
 
 ## Thank you
-* To the Research Team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
+* To the research team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
 
 ## Data analysis team
 * Steve Ovsak researched historical weather data sources, obtained and formatted the weather data for analysis, and carried out weather data exploration.
