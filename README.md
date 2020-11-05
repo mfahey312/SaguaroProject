@@ -3,12 +3,12 @@
 ## Tip: After reading this introduction, it is recommended that you read the Analysis notebook located in Final/Jupyter Notebooks. If you are interested in seeing the full data clean-up and preparation, check out the data prep notebooks in the same file.
 
 ## Thank you
-* To the Research Team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
+* To the research team at Desert Botanical Garden - staff and volunteers - for the time and energy you have invested in creating this invaluable dataset and for supporting our class project.
 
 ## Data analysis team
-* Steve Ovsak is ... He researched historical weather data sources and formatted the weather data for analysis
-* Steven Rohano's background is in the agricultural industry. He cleaned up and structured the historical saguaro inventory dataset for analysis.
-* Michael Fahey is ... In addition to contributing to data analysis, he managed GitHub for the project.
+* Steve Ovsak researched historical weather data sources, obtained and formatted the weather data for analysis, and carried out weather data exploration.
+* Steven Rohano's background is in the agricultural industry. He cleaned up and structured the historical saguaro inventory dataset for analysis and debugged the analysis notebook.
+* Michael Fahey debugged jupyter notebooks and hosted the GitHub repo.
 * Veronica Nixon was responsible for organizing the Saguaro Inventory from 2012 to 2020 as the Garden's GIS Manager. She continues to support the Garden as a volunteer. Her background is in geographic information systems and science and she contributed botanical information to this analysis as well as data prep, analysis, and general project management.
 
 ## Introduction
@@ -42,4 +42,4 @@
 
 * Due to the difficulty of measuring saguaro heights, they can only be measured every 5 years. Therefore we only had access to two growth rate datapoints. As time passes and more data is collected, it will be interesting to run regression analyses on growth rate-related trends.
 
-* Future work will include Saguaro Inventory 2021 in February!
+* Future work will (hopefully) include Saguaro Inventory 2021 in February!
